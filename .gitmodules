@@ -1,0 +1,6 @@
+[submodule "mtft_zsl"]
+	path = mtft_zsl
+	url = https://github.com/h4ste/mtft_zsl.git
+[submodule "pegasus"]
+	path = pegasus
+	url = https://github.com/h4ste/pegasus.git
